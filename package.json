@@ -9,8 +9,8 @@
     "bootstrap.js"
   ],
   "dependencies": {
-    "@actions/core": "^1.11.1",
-    "@tardis-ksh/tencent": "^2.4.0"
+    "@actions/core": "^2.0.2",
+    "@tardis-ksh/tencent": "^2.5.0"
   },
   "devDependencies": {
     "@types/node": "^22.13.1",
