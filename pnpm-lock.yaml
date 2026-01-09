@@ -19,8 +19,8 @@ importers:
         specifier: ^22.13.1
         version: 22.13.1
       prettier:
-        specifier: ^3.5.0
-        version: 3.5.0
+        specifier: ^3.7.4
+        version: 3.7.4
 
 packages:
 
@@ -119,8 +119,8 @@ packages:
       encoding:
         optional: true
 
-  prettier@3.5.0:
-    resolution: {integrity: sha512-quyMrVt6svPS7CjQ9gKb3GLEX/rl3BCL2oa/QkNcXv4YNVBC9olt3s+H7ukto06q7B1Qz46PbrKLO34PR6vXcA==}
+  prettier@3.7.4:
+    resolution: {integrity: sha512-v6UNi1+3hSlVvv8fSaoUbggEM5VErKmmpGA7Pl3HF8V6uKY7rvClBOJlH6yNwQtfTueNkGVpOv/mtWL9L4bgRA==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -249,7 +249,7 @@ snapshots:
     dependencies:
       whatwg-url: 5.0.0
 
-  prettier@3.5.0: {}
+  prettier@3.7.4: {}
 
   tencentcloud-sdk-nodejs-cdn@4.0.1013:
     dependencies:
